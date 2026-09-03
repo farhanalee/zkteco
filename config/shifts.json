@@ -1,0 +1,62 @@
+[
+    {
+        "id": "shift_8h_day",
+        "name": "8-Hour Day Shift",
+        "start_time": "09:00",
+        "end_time": "17:00",
+        "grace_period_minutes": 15,
+        "late_threshold_minutes": 30,
+        "half_day_minutes": 240,
+        "full_day_minutes": 480,
+        "is_night_shift": false,
+        "working_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "is_default": false,
+        "shift_type": "8h"
+    },
+    {
+        "id": "shift_8h_night",
+        "name": "8-Hour Night Shift",
+        "start_time": "21:00",
+        "end_time": "05:00",
+        "grace_period_minutes": 15,
+        "late_threshold_minutes": 30,
+        "half_day_minutes": 240,
+        "full_day_minutes": 480,
+        "is_night_shift": true,
+        "working_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "is_default": false,
+        "shift_type": "8h"
+    },
+    {
+        "id": "shift_office_830_1630",
+        "name": "Office Shift (8:30-16:30)",
+        "start_time": "08:30",
+        "end_time": "16:30",
+        "grace_period_minutes": 15,
+        "late_threshold_minutes": 30,
+        "half_day_minutes": 240,
+        "full_day_minutes": 480,
+        "is_night_shift": false,
+        "working_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "is_default": false,
+        "shift_type": "office"
+    }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "desig_mgr", "title": "Department Manager", "department_id": "dept_eng", "level": "L4" },
+  { "id": "desig_lead", "title": "Team Lead", "department_id": "dept_eng", "level": "L3" },
+  { "id": "desig_sr_eng", "title": "Senior Engineer", "department_id": "dept_eng", "level": "L3" },
+  { "id": "desig_eng", "title": "Systems Engineer", "department_id": "dept_eng", "level": "L2" },
+  { "id": "desig_officer", "title": "HR Officer", "department_id": "dept_hr", "level": "L2" },
+  { "id": "desig_acc", "title": "Accountant", "department_id": "dept_fin", "level": "L2" },
+  { "id": "desig_exec", "title": "Operations Executive", "department_id": "dept_ops", "level": "L1" }
+]

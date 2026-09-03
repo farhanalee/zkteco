@@ -1,0 +1,7 @@
+[
+  { "id": "dept_eng", "name": "Engineering & Technology", "code": "ENG", "manager": "EMP-1001", "default_shift_id": "shift_8h_day" },
+  { "id": "dept_ops", "name": "Operations & Logistics", "code": "OPS", "manager": "EMP-1002", "default_shift_id": "shift_12h_day" },
+  { "id": "dept_hr", "name": "Human Resources", "code": "HR", "manager": "EMP-1003", "default_shift_id": "shift_office_830_1630" },
+  { "id": "dept_fin", "name": "Finance & Accounts", "code": "FIN", "manager": "EMP-1004", "default_shift_id": "shift_office_830_1630" },
+  { "id": "dept_sales", "name": "Sales & Marketing", "code": "SALES", "manager": "EMP-1005", "default_shift_id": "shift_8h_day" }
+]

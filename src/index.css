@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --c-bg: #050505;
+    --c-surface: #121212;
+    --c-surface-hover: #181818;
+    --c-border: #262626;
+    --c-accent: #3b82f6;
+    --c-success: #10b981;
+  }
+
+  body {
+    background-color: #050505;
+    color: #e5e5e5;
+    color-scheme: dark;
+  }
+}
+
+/* Custom scrollbars for dark theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d0d0d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #262626;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a3a;
+}

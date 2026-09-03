@@ -1,0 +1,6 @@
+# ZKTeco K40 Python Connector Dependencies
+# Compatible with Python 3.8+ on Windows / Linux / macOS
+
+requests>=2.31.0
+urllib3>=2.0.0
+pyzk>=0.9

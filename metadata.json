@@ -1,0 +1,6 @@
+{
+  "name": "ZKTeco K40 Attendance System",
+  "description": "Local web-based ZKTeco K40 biometric attendance management system with TCP/IP device connector, live monitoring, shifts, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

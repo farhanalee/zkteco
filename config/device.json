@@ -1,0 +1,10 @@
+{
+    "device_name": "Terminal 1 - North Entry Plaza (ZKTeco K40)",
+    "ip_address": "113.203.205.136",
+    "port": 4370,
+    "comm_key": 0,
+    "connection_timeout": 5,
+    "auto_refresh_interval": 30,
+    "last_connection_status": "Connected",
+    "last_sync_time": "2026-09-03 08:57:38"
+}
